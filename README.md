@@ -1,28 +1,29 @@
-== README
+Alan On Rails
+=============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Powerful Software
+-----------------
 
-Things you may want to cover:
+### Welcome to the repository
 
-* Ruby version
+Feel free to access [my portfolio] (http://alankritjoshi.me)
 
-* System dependencies
+> ## Mauris at condimentum neque, eleifend bibendum ante.
 
-* Configuration
+> Proin et dictum dui. Sed dignissim elit eu mi euismod pharetra. 
 
-* Database creation
+> Maecenas pulvinar eget enim ut *luctus*.
 
-* Database initialization
+Maecenas pulvinar eget enim ut **luctus**.
 
-* How to run the test suite
+### Crazy good software
+* Rapide Development
++ Tested
+- 24/7 Support
 
-* Services (job queues, cache servers, search engines, etc.)
+### Reasons to choose us
+1. Price
+2. Precision
+3. Performance
 
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is what Ruby code would look like`puts 'Hello, world'`
